@@ -19,4 +19,5 @@ the main questions to answer:
 ● Do sales figures vary between geographic regions?
 
 
+Here the link to Tableau vizualisation:
 https://public.tableau.com/shared/4F69GRBC5?:display_count=n&:origin=viz_share_link
