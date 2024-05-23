@@ -17,3 +17,6 @@ the main questions to answer:
 ● Where are customers with a high lifetime value based?
 
 ● Do sales figures vary between geographic regions?
+
+
+https://public.tableau.com/shared/4F69GRBC5?:display_count=n&:origin=viz_share_link
